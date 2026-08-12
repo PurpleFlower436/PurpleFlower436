@@ -15,6 +15,9 @@ I am currently working on Pocket Triage which is a volunteer-led initiative focu
 [![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)
+[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
+[![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
 
 ## Project Showcase 
 [![Trivia Smackdown](https://img.shields.io/badge/🎮_Trivia_Smackdown-6A0DAD?style=for-the-badge)](https://github.com/PurpleFlower436/Trivia_Smackdown)  
