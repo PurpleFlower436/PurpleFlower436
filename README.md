@@ -4,6 +4,8 @@
 
 I am currently working on Pocket Triage which is a volunteer-led initiative focused on providing offline-first physical and mental first aid guidance for people in situations where medical support may be unavailable or delayed. The goal is to offer practical, easy-to-follow guidance that can help stabilize a situation until professional help becomes available. We are currently developing the web and mobile versions of Pocket Triage.  
 
+I am currently implementing the burns flow which directs the user through different burn situations they could experience like chemical, electrical and hot surface burns and how to care for their injuries when they happen. 
+
 ### :hammer_and_wrench: Tech Stack :
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 ![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
