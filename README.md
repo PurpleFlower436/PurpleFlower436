@@ -22,8 +22,8 @@ I am currently implementing the burns flow which directs the user through differ
 [![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
 
 ## Project Showcase 
-[![Trivia Smackdown](https://img.shields.io/badge/🎮_Trivia_Smackdown-6A0DAD?style=for-the-badge)](https://github.com/PurpleFlower436/Trivia_Smackdown)  
 [![Pocket Triage ](https://img.shields.io/badge/🏥Pocket_Triage-FF2400?style=for-the-badge)](https://github.com/PurpleFlower436/pocket-triage-demo)   
+[![Trivia Smackdown](https://img.shields.io/badge/🎮_Trivia_Smackdown-6A0DAD?style=for-the-badge)](https://github.com/PurpleFlower436/Trivia_Smackdown)  
 [![Machine-Learning-Models-on-iPhone-Purchases-Dataset ](https://img.shields.io/badge/Machine_Learning_Models_on_iPhone_Purchases_Dataset-2A52BE?style=for-the-badge)](https://github.com/PurpleFlower436/Machine-Learning-Models-on-iPhone-Purchases-Dataset)
 
 
