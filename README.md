@@ -4,7 +4,7 @@
 
 I am currently working on Pocket Triage which is a volunteer-led initiative focused on providing offline-first physical and mental first aid guidance for people in situations where medical support may be unavailable or delayed. The goal is to offer practical, easy-to-follow guidance that can help stabilize a situation until professional help becomes available. We are currently developing the web and mobile versions of Pocket Triage.  
 
-I am currently implementing the burns flow which directs the user through different burn situations they could experience like chemical, electrical and hot surface burns and how to care for their injuries when they happen. 
+Just shipped the burns triage flow in Pocket Triage: chemical, electrical, and hot surface burns route into a shared severity check that branches to minor, moderate, and severe care paths. Next up is the heimlich triage flow which lets the user know what to do when someone is choking. 
 
 ### :hammer_and_wrench: Tech Stack :
 
